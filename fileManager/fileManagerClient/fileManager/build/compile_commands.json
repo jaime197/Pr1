@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ubuntu/compartido/pr1/fileManager/fileManager/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/client.dir/utils.cpp.o -c /home/ubuntu/compartido/pr1/fileManager/fileManager/utils.cpp",
+  "file": "/home/ubuntu/compartido/pr1/fileManager/fileManager/utils.cpp"
+},
+{
+  "directory": "/home/ubuntu/compartido/pr1/fileManager/fileManager/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/client.dir/client.cpp.o -c /home/ubuntu/compartido/pr1/fileManager/fileManager/client.cpp",
+  "file": "/home/ubuntu/compartido/pr1/fileManager/fileManager/client.cpp"
+},
+{
+  "directory": "/home/ubuntu/compartido/pr1/fileManager/fileManager/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/client.dir/filemanager_stub.cpp.o -c /home/ubuntu/compartido/pr1/fileManager/fileManager/filemanager_stub.cpp",
+  "file": "/home/ubuntu/compartido/pr1/fileManager/fileManager/filemanager_stub.cpp"
+}
+]

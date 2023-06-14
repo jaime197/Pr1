@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "/home/ubuntu/compartido/pr1/multMatrix/multMatrix",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}

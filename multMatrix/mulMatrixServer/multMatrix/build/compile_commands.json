@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/ubuntu/compartido/pr1/multMatrix/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/server.dir/utils.cpp.o -c /home/ubuntu/compartido/pr1/multMatrix/multMatrix/utils.cpp",
+  "file": "/home/ubuntu/compartido/pr1/multMatrix/multMatrix/utils.cpp"
+},
+{
+  "directory": "/home/ubuntu/compartido/pr1/multMatrix/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/server.dir/server.cpp.o -c /home/ubuntu/compartido/pr1/multMatrix/multMatrix/server.cpp",
+  "file": "/home/ubuntu/compartido/pr1/multMatrix/multMatrix/server.cpp"
+},
+{
+  "directory": "/home/ubuntu/compartido/pr1/multMatrix/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/server.dir/multmatrix.cpp.o -c /home/ubuntu/compartido/pr1/multMatrix/multMatrix/multmatrix.cpp",
+  "file": "/home/ubuntu/compartido/pr1/multMatrix/multMatrix/multmatrix.cpp"
+},
+{
+  "directory": "/home/ubuntu/compartido/pr1/multMatrix/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/server.dir/multmatrix_imp.cpp.o -c /home/ubuntu/compartido/pr1/multMatrix/multMatrix/multmatrix_imp.cpp",
+  "file": "/home/ubuntu/compartido/pr1/multMatrix/multMatrix/multmatrix_imp.cpp"
+}
+]

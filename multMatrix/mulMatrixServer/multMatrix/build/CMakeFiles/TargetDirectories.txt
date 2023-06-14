@@ -1,0 +1,3 @@
+/home/ubuntu/compartido/pr1/multMatrix/build/CMakeFiles/server.dir
+/home/ubuntu/compartido/pr1/multMatrix/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/compartido/pr1/multMatrix/build/CMakeFiles/rebuild_cache.dir
