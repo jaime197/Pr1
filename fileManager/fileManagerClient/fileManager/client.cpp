@@ -30,7 +30,7 @@
 
 int main(int argc, char **argv)
 {
-    filemanager_stub *fm = new filemanager_stub("/home/ubuntu/compartido/pruebas"); // se recomienda usar la ruta entera desde la raiz
+    filemanager_stub *fm = new filemanager_stub("/home/ubuntu/fileManager/pruebas"); // se recomienda usar la ruta entera desde la raiz
     vector<string *> *vfiles = fm->listFichero();
     cout << "Lista de ficheros en el directorio de prueba:\n";
     for (unsigned int i = 0; i < vfiles->size(); ++i)
