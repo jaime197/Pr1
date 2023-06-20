@@ -6,7 +6,7 @@
 filemanager_stub::filemanager_stub(char *_dirPath)
 {
     dirPath = _dirPath;
-    conn = initClient("172.31.91.5", 60000);
+    conn = initClient("192.168.49.2", 31172);
 }
 
 vector<string *> *filemanager_stub::listFichero()
